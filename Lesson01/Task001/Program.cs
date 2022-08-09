@@ -7,16 +7,19 @@ Console.WriteLine("Введите первое число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число: ");
 int b = Convert.ToInt32(Console.ReadLine());
-if (a > b) {
+if (a > b) 
+{
     Console.WriteLine($"Первое число {a}, больше второго числа {b}");
     Console.WriteLine($"Число {a} большее");
     Console.WriteLine($"Число {b} меньшее");
 }
-else if (a < b) {
+else if (a < b) 
+{
     Console.WriteLine($"Второе число {b}, больше первого числа {a}");
     Console.WriteLine($"Число {b} большее");
     Console.WriteLine($"Число {a} меньшее");
 }
-else {
+else 
+{
     Console.WriteLine($"Числa равны");
 }
