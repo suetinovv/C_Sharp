@@ -1,0 +1,15 @@
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\Task805.csproj.AssemblyReference.cache
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\Task805.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\Task805.AssemblyInfoInputs.cache
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\Task805.AssemblyInfo.cs
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\Task805.csproj.CoreCompileInputs.cache
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\bin\Debug\net6.0\Task805.exe
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\bin\Debug\net6.0\Task805.deps.json
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\bin\Debug\net6.0\Task805.runtimeconfig.json
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\bin\Debug\net6.0\Task805.dll
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\bin\Debug\net6.0\Task805.pdb
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\Task805.dll
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\refint\Task805.dll
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\Task805.pdb
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\Task805.genruntimeconfig.cache
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson08\Task805\obj\Debug\net6.0\ref\Task805.dll
