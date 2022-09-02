@@ -1,0 +1,15 @@
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\bin\Debug\net6.0\Task902.exe
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\bin\Debug\net6.0\Task902.deps.json
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\bin\Debug\net6.0\Task902.runtimeconfig.json
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\bin\Debug\net6.0\Task902.dll
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\bin\Debug\net6.0\Task902.pdb
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\Task902.csproj.AssemblyReference.cache
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\Task902.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\Task902.AssemblyInfoInputs.cache
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\Task902.AssemblyInfo.cs
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\Task902.csproj.CoreCompileInputs.cache
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\Task902.dll
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\refint\Task902.dll
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\Task902.pdb
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\Task902.genruntimeconfig.cache
+C:\Users\nikal\OneDrive\Рабочий стол\C_Sharp\Lesson09\Task902\obj\Debug\net6.0\ref\Task902.dll
